@@ -1,4 +1,2 @@
 test:
-  message: Prasad
-server:
-  port: 2233
+  message: CMK - Default message
