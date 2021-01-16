@@ -1,5 +1,2 @@
 test:
-  message: Prasad
-  
-server:
-  port: 3344
+  message: CMK - Production file message
